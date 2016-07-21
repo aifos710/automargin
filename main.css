@@ -1,0 +1,16 @@
+.old{
+	width: 300px;
+    margin: 7px auto auto 7px;
+    border: 20px solid yellow;
+    padding: 25px;
+    text-align: center;
+}
+
+.new{
+	width: 300px;
+	border: 20px solid yellow;
+	margin: 7px auto;
+	text-align: center;
+	text-align: left;
+	padding: 30px;
+}
